@@ -1,7 +1,7 @@
 # BlockHead-GameJam
 https://iu.instructure.com/courses/1652766/assignments/7728061#submit
 
-Jesse Riggins, Jon Brown, and Karre's submission for ILS-Z399 Game Jame "Squares, Boxes, and Cubes"
+Jesse Riggins, Jon Brown, and Karre Marshall's submission for ILS-Z399 Game Jame "Squares, Boxes, and Cubes"
 
 
 Inspired by Doodle Jump, this is an endless jumper where you continually climb the falling boxes.
@@ -18,3 +18,9 @@ http://creativecommons.org/licenses/by/3.0/
 
 "7967__cfork__boing-raw"
 Attribution 3.0 Unported (CC BY 3.0)
+
+"[2D] Wooden Box" by Cpt_Flash, modified for use
+Licensed through Public Domain CC0
+
+"BoxTots - Robot" by Claybear, modified for use
+Licensed through Public Domain CC0
